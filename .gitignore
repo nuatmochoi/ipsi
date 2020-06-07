@@ -176,3 +176,7 @@ venv/
 
 # keys
 config/keys/
+
+# static files
+staticfiles/
+
